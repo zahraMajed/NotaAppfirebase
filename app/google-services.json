@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6317508975",
+    "project_id": "nota-app-firebase",
+    "storage_bucket": "nota-app-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6317508975:android:4658685d877cf7ae9c409a",
+        "android_client_info": {
+          "package_name": "com.example.notaappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6317508975-kasqc8578he9gbrogorguf1p54jp15po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsiYYjfLX57ei8fVcx22OLRwqW4vGZd2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6317508975-kasqc8578he9gbrogorguf1p54jp15po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
